@@ -1,7 +1,9 @@
 body {
     background: rgb(2,0,36);
     background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,121,97,1) 0%, rgba(3,194,169,1) 43%, rgba(0,212,255,1) 80%);}
-* {box-sizing: border-box;}
+* {box-sizing: border-box;
+    margin:0;
+   padding:0;}
 .bg-img{
     background-image: url("https://www.who.int/images/default-source/health-topics/coronavirus/gettyimages-1203376093.tmb-1920v.png?Culture=en&sfvrsn=6e0c1bc7_6");
     
